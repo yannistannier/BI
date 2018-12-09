@@ -502,7 +502,7 @@ p[0:25].to_csv("best_articles.csv", index=False)
 # In[133]:
 
 
-art = pd.read_csv("articles_joseph.csv")
+art = pd.read_csv("articles_b.csv")
 
 
 # In[141]:
